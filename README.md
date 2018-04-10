@@ -21,7 +21,7 @@ I only use one year of data because the coefficent isn't a constant and I figure
 
 
 ### Fututre commands.
-Thinking of doing something that will tell you portfolio performance over time & how your portfolio would have done if you a) market hedged and b) inversed it while market hedging. 
+Thinking of doing something that will tell you historical portfolio performance over time of a given portfolio,  & how your portfolio would have done if you a) market hedged and b) inversed it while market hedging. 
 
 
 .... More commands being added over time. 
