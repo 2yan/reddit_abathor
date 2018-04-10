@@ -207,10 +207,10 @@ def respond_to_text(text):
         text = to_reddit_table(model, tickers[0])
         return text
 
-def main_loop():
+def main_loop(subreddit):
     today = datetime.today()
     
-    for comment in wsb.stream.comments():
+    for comment in subreddit.stream.comments():
         if datetime.today().day != today.day:
             today = datetime.today()
             delete_cache()
@@ -239,9 +239,9 @@ if __name__ == '__main__':
     
 
     reddit = praw.Reddit('bot1')
-    wsb = reddit.subreddit("wallstreetbets")
+    subreddit = reddit.subreddit("wallstreetbets+investing+robinhood")
     cache = {}
-    main_loop()
+    main_loop(subreddit)
     
 
 
