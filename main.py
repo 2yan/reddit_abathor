@@ -62,6 +62,11 @@ def multi_factor_model(predictors_, ticker):
     for predictor in predictors_:
         predictor = predictor.upper()
         predictors.append(predictor)
+        if '-' in predictor:
+            a, b = predictor.split('-')
+            a = download_ticker(a.strip())
+            b = download_ticker(b.strip())
+            cache[predictor] = a - b
         final[predictor] = download_ticker(predictor)
         
     final = final.dropna().pct_change().dropna()
@@ -200,10 +205,7 @@ def respond_to_text(text):
     command, tickers, end = command
     
     if command == 'regress':
-        try:
-            model = multi_factor_model(tickers[1:], tickers[0])
-        except KeyError:
-            raise ValueError('Nonexistant Ticker (Not found in datasource:iex) ')
+        model = multi_factor_model(tickers[1:], tickers[0])
         text = to_reddit_table(model, tickers[0])
         return text
 
