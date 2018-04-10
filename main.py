@@ -226,7 +226,9 @@ def main_loop():
                     
                 text = '''I'm Abathor, a bot that runs on u/2yan's account and provides correlation figures and other statistics''' 
                 text = text + '  \n\n\n  ' + response
+                text = text + ' \n\n Github: https://github.com/2yan/reddit_abathor/ ' 
                 comment.reply(text)
+                
                 print('replied')
                 save_replied(comment)
                 
