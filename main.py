@@ -203,7 +203,7 @@ def respond_to_text(text):
         try:
             model = multi_factor_model(tickers[1:], tickers[0])
         except KeyError:
-            raise ValueError('Nonexistant Ticker')
+            raise ValueError('Nonexistant Ticker (Not found in datasource:iex) ')
         text = to_reddit_table(model, tickers[0])
         return text
 
@@ -222,7 +222,7 @@ def main_loop():
                 try:
                     response = respond_to_text(comment_text)
                 except Exception as e:
-                    response = (str(e))
+                    response = 'Error: ' + (str(e))
                     
                 text = '''I'm Abathor, a bot that runs on u/2yan's account and provides correlation figures and other statistics''' 
                 text = text + '  \n\n\n  ' + response
