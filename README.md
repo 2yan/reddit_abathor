@@ -19,8 +19,9 @@ It does an OLS regression on the day to day percent changes over the last year. 
 I only use one year of data because the coefficent isn't a constant and I figure if you're using it for talking about the market, you want an up to date estimate 
 ( If underlying truths change and you don't realize that, you're the scrub).
 
+Notes: you can also subtract tickers from each other, so you can test hypothesis like is the difference between gold & silver a predictor of the market? Abathor:regress( SPY, GDX - SLVP)!
 
-### Fututre commands.
+### Future commands.
 Thinking of doing something that will tell you historical portfolio performance over time of a given portfolio,  & how your portfolio would have done if you a) market hedged and b) inversed it while market hedging. 
 
 
