@@ -1,5 +1,5 @@
 # reddit_abathor
-A bot for reddit that does on the fly statistical analysis. Use this to win internet arguments. 
+A bot for reddit (That only works on wsb) that does on the fly statistical analysis. Use this to win internet arguments. 
 
 ## commands
 ### Regress command
@@ -17,3 +17,4 @@ It does an OLS regression on the day to day percent changes over the last year. 
 I only use one year of data because the coefficent isn't a constant and I figure if you're using it for talking about the market, you want an up to date estimate 
 ( If underlying truths change and you don't realize that, you're the scrub).
 
+.... More commands being added over time. 
