@@ -15,7 +15,7 @@ Abathor:regress(MSFT, GDX)! as a comment and BAM it tells you if said scrub is w
 and then you tell the scrub that he's wrong and you have the regression results right there to really let em know he's wrong.
 
 Nerd details:
-It does an OLS regression on the day to day percent changes over the last year. It also adds a coefficient automatically. 
+It does an OLS regression on the day to day percent changes over the last year. It also adds a constant automatically cause you need to check that bias for that bias variance tradeoff yo.
 I only use one year of data because the coefficent isn't a constant and I figure if you're using it for talking about the market, you want an up to date estimate 
 ( If underlying truths change and you don't realize that, you're the scrub).
 
