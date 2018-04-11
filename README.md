@@ -1,3 +1,7 @@
+Note: I say use this to win arguments but in reality I just use this bot and say things, then people school me on proper statistics. I have learnt way more in two days by trying to use this on reddit and having people correct and explain things to me than I have in 3 months of self study. 
+
+
+
 # reddit_abathor
 A bot for reddit (That only works on wallstreetbets, investing, and robinhood) that does on the fly statistical analysis. Use this to win internet arguments. 
 
