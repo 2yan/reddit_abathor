@@ -9,7 +9,7 @@ It's not the kind of bot that's going to comment on your post out of the blue, i
 
 ## commands
 ### Regress command
-Abathor: regress(dependant ticker, independantticker1, independantticker2..., .., .. )! 
+> Abathor: regress(dependant ticker, independantticker1, independantticker2..., .., .. )! 
 
 basically you type in the command as a comment on reddit and it will spit the output of a full factormodel as a reply. 
 
@@ -25,7 +25,7 @@ I only use one year of data because the coefficent isn't a constant and I figure
 
 Notes: you can also subtract tickers from each other, so you can test hypothesis like is the difference between gold & silver a predictor of the market? Abathor:regress( SPY, GDX - SLVP)!
 ### Correlate command
-Abathor: correlate(ticker1, ticker2, ticker3..., .., .. )! 
+> Abathor: correlate(ticker1, ticker2, ticker3..., .., .. )! 
 Spits back a spearman rank correlation matrix of all the aformentioned tickers. 
 
 ### Future commands.
