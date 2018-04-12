@@ -26,6 +26,7 @@ I only use one year of data because the coefficent isn't a constant and I figure
 Notes: you can also subtract tickers from each other, so you can test hypothesis like is the difference between gold & silver a predictor of the market? Abathor:regress( SPY, GDX - SLVP)!
 ### Correlate command
 > Abathor: correlate(ticker1, ticker2, ticker3..., .., .. )! 
+
 Spits back a spearman rank correlation matrix of all the aformentioned tickers. 
 
 ### Future commands.
