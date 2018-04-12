@@ -67,6 +67,6 @@ def respond_to_text(text):
 
 reddit = praw.Reddit('bot1')
 subreddit = reddit.subreddit("wallstreetbets+investing+robinhood")
-cache = {}
+
 
 

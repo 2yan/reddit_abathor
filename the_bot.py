@@ -4,11 +4,7 @@ import sys
 import subprocess 
 import os
 import socket
-
- 
-
-
-
+import pandas as pd
 
 def get_version():
     filename = 'version.txt'
@@ -42,9 +38,6 @@ def version_check(context):
     if current_version == version: 
         return 
 
-
-
-
 def log(message):
     print(message)
     with open('log.txt', 'a') as f:
@@ -53,6 +46,34 @@ def log(message):
         f.write('    :')
         f.write(message)
     return  
+
+
+def get_greeting(comment):
+    author = comment.author
+    requester_name = author.name
+    friend = author.is_friend
+
+    title = ''
+    flair = comment.author_flair_text
+    if pd.isnull(flair):
+        flair = ''
+    to_remove = ['the ', 'an ', 'a ']
+    for thing in to_remove:
+        if flair.lower().strip().startswith(thing):
+            flair = flair[len(thing)]
+    
+    if flair != '':
+        flair = "the \'{}\'".format(flair)
+    
+    if requester_name == '2yan':
+        title = 'Yes Sir,'
+    
+    if requester_name != '2yan':
+        title = '{} {} :'.format(requester_name, flair)
+    
+    if friend:
+        title = 'Absolutely {}, {}, Friend of 2yan'.format(requester_name, flair)
+    return title
 
 def main_loop():
     subreddit = glue.subreddit
@@ -73,10 +94,15 @@ def main_loop():
                 except Exception as e:
                     response = 'Error: ' + (str(e))
                     
-                text = '''I'm Abathor, a bot that runs on u/2yan's account and provides correlation figures and other statistics''' 
-                text = text + '  \n\n\n  ' + response
-                text = text + ' \n\n Github: https://github.com/2yan/reddit_abathor/ ' 
-                #comment.reply(text)
+                greeting = get_greeting(comment)
+                    
+                text = greeting + '  \n\n\n  ' + response
+                text = text + ' \n\n_______________________ ' 
+                text = text + ' \n\n Guide: https://github.com/2yan/reddit_abathor/ '
+                text = text +  '''\n\n I'm Abathor, a bot that runs on u/2yan's account and serves to provide stats and data.
+                Anyone can invoke me in a few specific subreddits.''' 
+
+                comment.reply(text)
                 
                 print('replied')
                 glue.save_replied(comment)
