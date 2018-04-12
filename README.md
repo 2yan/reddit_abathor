@@ -2,7 +2,7 @@ Note: I say use this to win arguments but in reality I just use this bot and say
 
 
 
-# reddit_abathor
+# Abathor for Reddit
 A bot for reddit (That only works on wallstreetbets, investing, and robinhood) that does on the fly statistical analysis. Use this to win internet arguments. 
 
 It's not the kind of bot that's going to comment on your post out of the blue, it's one that you need to explicitly summon. 
