@@ -55,32 +55,31 @@ def log(message):
     return  
 
 def main_loop():
-    subreddit = commands.subreddit
+    subreddit = glue.subreddit
     today = datetime.today()
     
     for comment in subreddit.stream.comments():
         version_check(context)
         
-        print(comment.body.lower())
         if datetime.today().day != today.day:
             today = datetime.today()
-            commands.delete_cache()
+            glue.delete_cache()
         comment_text = comment.body.lower()
         if 'abathor:' in comment_text:
             print(comment_text)
-            if not commands.is_replied(comment):
+            if not glue.is_replied(comment):
                 try:
-                    response = commands.respond_to_text(comment_text)
+                    response = glue.respond_to_text(comment_text)
                 except Exception as e:
                     response = 'Error: ' + (str(e))
                     
                 text = '''I'm Abathor, a bot that runs on u/2yan's account and provides correlation figures and other statistics''' 
                 text = text + '  \n\n\n  ' + response
                 text = text + ' \n\n Github: https://github.com/2yan/reddit_abathor/ ' 
-                comment.reply(text)
+                #comment.reply(text)
                 
                 print('replied')
-                commands.save_replied(comment)
+                glue.save_replied(comment)
                 
                 
 def allready_running():
@@ -111,7 +110,7 @@ if __name__ == '__main__':
     context = {'version':version, 'last_check_time':0}
     while True:
         try:
-            import commands
+            import glue
             version_check(context)
             main_loop()
         except Exception as e:
