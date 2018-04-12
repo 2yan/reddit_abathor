@@ -16,7 +16,7 @@ def download_ticker(ticker):
     if ticker in cache.keys():
         return cache[ticker]
     today = datetime.today()
-    data = pdr.DataReader(ticker,data_source = 'iex', start = today - timedelta(days = 365), end = today , retry_count= 3, pause= 1)
+    data = pdr.DataReader(ticker,data_source = 'iex', start = today - timedelta(days = 500), end = today , retry_count= 3, pause= 1)
     data = data.reset_index()
     cols = []
     for column in data.columns:
@@ -174,7 +174,7 @@ def download_tickers():
 
 def figure_out_command(words):
     words = words.lower()
-    commands = [' regress(']
+    commands = ['regress(']
     if 'abathor:' not in words:
         return False
     
@@ -190,7 +190,9 @@ def figure_out_command(words):
             for ticker in tickers:
                 ticker = ticker.strip().upper()
                 for punc in string.punctuation:
-                    ticker = ticker.replace(punc, '')
+                    if punc not in '+-/*':
+                        ticker = ticker.replace(punc, '')
+                    
                 final_tickers.append(ticker)
             if len(final_tickers) < 2:
                 return False
@@ -204,10 +206,14 @@ def respond_to_text(text):
         raise ValueError('No valid command')
     command, tickers, end = command
     
-    if command == ' regress(':
+    if command == 'regress(':
         model = multi_factor_model(tickers[1:], tickers[0])
         text = to_reddit_table(model, tickers[0])
         return text
+
+
+
+
 
 def main_loop(subreddit):
     today = datetime.today()
@@ -235,7 +241,6 @@ def main_loop(subreddit):
                 
 
 if __name__ == '__main__':
-    
 
     reddit = praw.Reddit('bot1')
     subreddit = reddit.subreddit("wallstreetbets+investing+robinhood")
