@@ -1,6 +1,4 @@
 import pandas as pd
-from datetime import datetime, timedelta
-import pandas_datareader as pdr
 from statsmodels import regression
 import statsmodels
 import data_getter
@@ -25,8 +23,18 @@ def multi_factor_model(predictors_, ticker):
 
 def regress(ticker_list):
     model =  multi_factor_model(ticker_list[1:], ticker_list[0])
-    text = formatter.to_reddit_table(model)
+    text = formatter.model_to_reddit_table(model)
     return text
     
+
+def correlate(ticker_list):
+    data = data_getter.download_tickers(ticker_list, 365)
+    data = data.dropna().pct_change().dropna()
+    data= data.corr('spearman')
+    data.index.name = 'Spearman correlation'
+    text = formatter.convert_dataframe_to_reddit_table(data)
+    text = text + '\n\n' + 'Spearman Rank correlation on percentage changes of 365 days of data.' 
+    return text
     
-command_list = {'regress(': regress}
+command_list = {'regress(': regress,
+                         'correlate(':correlate}

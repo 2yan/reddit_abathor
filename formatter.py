@@ -1,3 +1,5 @@
+import pandas as pd
+
 def make_table(table):
     csv = []
     for row in table:
@@ -25,7 +27,19 @@ def make_table(table):
     csv = csv.replace(',', '|')
     return header +'\n\n' + csv
 
-def to_reddit_table(model):
+def convert_dataframe_to_reddit_table(data):
+    if pd.isnull(data.index.name):
+        data.index.name = '.'
+    
+    data.columns = data.columns.str.replace('|',',')
+    columns = len(data.columns)+1
+    data.index = data.index.str.replace('|',',')
+    data = data.to_csv(sep = '|').split('\n')
+    data.insert(1, '|'.join([':--']*columns))
+    return '\n'.join(data)
+
+
+def model_to_reddit_table(model):
     tables = model.summary().tables
     text = ''
     for table in tables:

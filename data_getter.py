@@ -4,6 +4,7 @@ import pandas as pd
 
 
 def download_ticker(ticker, look_back):
+    ticker = ticker.upper()
     key = ticker + ' {} '.format(int(look_back))
     cache = get_cache()
     if key in cache.keys():
