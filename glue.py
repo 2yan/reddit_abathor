@@ -50,7 +50,7 @@ def figure_out_command(words):
             for arg in arguments:
                 arg = arg.strip().upper()
                 for punc in string.punctuation:
-                    if punc not in '+-/*':
+                    if punc not in '+-/*_':
                         arg = arg.replace(punc, '')
                     
                 final_arguments.append(arg)
