@@ -4,8 +4,10 @@ import pandas as pd
 
 
 def download_ticker(ticker, look_back):
+    
     ticker = ticker.upper()
     key = ticker + ' {} '.format(int(look_back))
+    print(key)
     cache = get_cache()
     if key in cache.keys():
         return cache[key]
@@ -42,7 +44,7 @@ def download_tickers(tickers, look_back):
             a, b = ticker.split('-')
             a = download_ticker(a.strip(), look_back)
             b = download_ticker(b.strip(), look_back)
-            cache[ticker] = a - b
+            cache[ticker + ' {} '.format(look_back)] = a - b
             
         final[ticker] = download_ticker(ticker, look_back)
     return final
