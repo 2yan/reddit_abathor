@@ -40,8 +40,8 @@ def download_tickers(tickers, look_back):
         ticker = ticker.strip()
         if '-' in ticker:
             a, b = ticker.split('-')
-            a = download_ticker(a.strip())
-            b = download_ticker(b.strip())
+            a = download_ticker(a.strip(), look_back)
+            b = download_ticker(b.strip(), look_back)
             cache[ticker] = a - b
             
         final[ticker] = download_ticker(ticker, look_back)
