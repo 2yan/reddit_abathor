@@ -1,5 +1,0 @@
-
-2018-04-12T10:37:41.895498    :Already up-to-date.
-
-2018-04-12T10:38:19.216498    :Update to Version: 0.12
-2018-04-12T10:38:26.240498    :Already up-to-date.
