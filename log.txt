@@ -1,0 +1,575 @@
+
+2018-04-12T19:09:23.308185    :Update to Version: 0.14
+2018-04-12T19:09:23.308862    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.309881    :Update to Version: 0.14
+2018-04-12T19:09:23.310464    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.311576    :Update to Version: 0.14
+2018-04-12T19:09:23.312228    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.313497    :Update to Version: 0.14
+2018-04-12T19:09:23.314224    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.315636    :Update to Version: 0.14
+2018-04-12T19:09:23.316434    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.318020    :Update to Version: 0.14
+2018-04-12T19:09:23.318894    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.320592    :Update to Version: 0.14
+2018-04-12T19:09:23.321548    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.323399    :Update to Version: 0.14
+2018-04-12T19:09:23.324421    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.326448    :Update to Version: 0.14
+2018-04-12T19:09:23.327544    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.329706    :Update to Version: 0.14
+2018-04-12T19:09:23.330847    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.333080    :Update to Version: 0.14
+2018-04-12T19:09:23.334258    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.336466    :Update to Version: 0.14
+2018-04-12T19:09:23.337650    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.339931    :Update to Version: 0.14
+2018-04-12T19:09:23.341185    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.343594    :Update to Version: 0.14
+2018-04-12T19:09:23.344875    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.347388    :Update to Version: 0.14
+2018-04-12T19:09:23.348721    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.351313    :Update to Version: 0.14
+2018-04-12T19:09:23.352681    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.356708    :Update to Version: 0.14
+2018-04-12T19:09:23.358890    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.363046    :Update to Version: 0.14
+2018-04-12T19:09:23.364478    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.367097    :Update to Version: 0.14
+2018-04-12T19:09:23.368441    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.371074    :Update to Version: 0.14
+2018-04-12T19:09:23.372420    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.375045    :Update to Version: 0.14
+2018-04-12T19:09:23.376391    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.379031    :Update to Version: 0.14
+2018-04-12T19:09:23.380380    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.382995    :Update to Version: 0.14
+2018-04-12T19:09:23.384340    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.386975    :Update to Version: 0.14
+2018-04-12T19:09:23.388323    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.390939    :Update to Version: 0.14
+2018-04-12T19:09:23.392288    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.394915    :Update to Version: 0.14
+2018-04-12T19:09:23.396266    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.398875    :Update to Version: 0.14
+2018-04-12T19:09:23.400224    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.402848    :Update to Version: 0.14
+2018-04-12T19:09:23.404196    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.406818    :Update to Version: 0.14
+2018-04-12T19:09:23.408169    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.410793    :Update to Version: 0.14
+2018-04-12T19:09:23.412139    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.414765    :Update to Version: 0.14
+2018-04-12T19:09:23.416132    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.418755    :Update to Version: 0.14
+2018-04-12T19:09:23.420103    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.422728    :Update to Version: 0.14
+2018-04-12T19:09:23.424075    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.426703    :Update to Version: 0.14
+2018-04-12T19:09:23.428051    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.430658    :Update to Version: 0.14
+2018-04-12T19:09:23.432006    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.434634    :Update to Version: 0.14
+2018-04-12T19:09:23.436021    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.438662    :Update to Version: 0.14
+2018-04-12T19:09:23.440013    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.442641    :Update to Version: 0.14
+2018-04-12T19:09:23.443997    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.446608    :Update to Version: 0.14
+2018-04-12T19:09:23.447956    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.450583    :Update to Version: 0.14
+2018-04-12T19:09:23.451931    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.454536    :Update to Version: 0.14
+2018-04-12T19:09:23.455883    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.458511    :Update to Version: 0.14
+2018-04-12T19:09:23.459857    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.462462    :Update to Version: 0.14
+2018-04-12T19:09:23.463810    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.466433    :Update to Version: 0.14
+2018-04-12T19:09:23.467779    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.470389    :Update to Version: 0.14
+2018-04-12T19:09:23.471756    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.474415    :Update to Version: 0.14
+2018-04-12T19:09:23.475780    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.478400    :Update to Version: 0.14
+2018-04-12T19:09:23.479765    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.482403    :Update to Version: 0.14
+2018-04-12T19:09:23.483749    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.486360    :Update to Version: 0.14
+2018-04-12T19:09:23.487709    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.490333    :Update to Version: 0.14
+2018-04-12T19:09:23.491677    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.494280    :Update to Version: 0.14
+2018-04-12T19:09:23.495624    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.498245    :Update to Version: 0.14
+2018-04-12T19:09:23.499593    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.502213    :Update to Version: 0.14
+2018-04-12T19:09:23.503579    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.506215    :Update to Version: 0.14
+2018-04-12T19:09:23.507556    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.510169    :Update to Version: 0.14
+2018-04-12T19:09:23.511517    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.514132    :Update to Version: 0.14
+2018-04-12T19:09:23.515481    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.518101    :Update to Version: 0.14
+2018-04-12T19:09:23.519465    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.522119    :Update to Version: 0.14
+2018-04-12T19:09:23.523465    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.526088    :Update to Version: 0.14
+2018-04-12T19:09:23.527454    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.530104    :Update to Version: 0.14
+2018-04-12T19:09:23.531450    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.534062    :Update to Version: 0.14
+2018-04-12T19:09:23.535409    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.538072    :Update to Version: 0.14
+2018-04-12T19:09:23.539447    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.542067    :Update to Version: 0.14
+2018-04-12T19:09:23.543415    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.546048    :Update to Version: 0.14
+2018-04-12T19:09:23.547400    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.550039    :Update to Version: 0.14
+2018-04-12T19:09:23.551387    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.554043    :Update to Version: 0.14
+2018-04-12T19:09:23.555389    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.557995    :Update to Version: 0.14
+2018-04-12T19:09:23.559345    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.561981    :Update to Version: 0.14
+2018-04-12T19:09:23.563326    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.565938    :Update to Version: 0.14
+2018-04-12T19:09:23.567284    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.569915    :Update to Version: 0.14
+2018-04-12T19:09:23.571261    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.573877    :Update to Version: 0.14
+2018-04-12T19:09:23.575224    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.577852    :Update to Version: 0.14
+2018-04-12T19:09:23.579200    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.581824    :Update to Version: 0.14
+2018-04-12T19:09:23.583170    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.585807    :Update to Version: 0.14
+2018-04-12T19:09:23.587157    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.589770    :Update to Version: 0.14
+2018-04-12T19:09:23.591123    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.593756    :Update to Version: 0.14
+2018-04-12T19:09:23.595102    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.597743    :Update to Version: 0.14
+2018-04-12T19:09:23.599091    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.601726    :Update to Version: 0.14
+2018-04-12T19:09:23.603072    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.605689    :Update to Version: 0.14
+2018-04-12T19:09:23.607037    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.609670    :Update to Version: 0.14
+2018-04-12T19:09:23.611018    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.613634    :Update to Version: 0.14
+2018-04-12T19:09:23.614977    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.617605    :Update to Version: 0.14
+2018-04-12T19:09:23.618951    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.621564    :Update to Version: 0.14
+2018-04-12T19:09:23.622910    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.625545    :Update to Version: 0.14
+2018-04-12T19:09:23.626892    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.629507    :Update to Version: 0.14
+2018-04-12T19:09:23.630872    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.633503    :Update to Version: 0.14
+2018-04-12T19:09:23.634848    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.637462    :Update to Version: 0.14
+2018-04-12T19:09:23.638806    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.641474    :Update to Version: 0.14
+2018-04-12T19:09:23.642823    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.645450    :Update to Version: 0.14
+2018-04-12T19:09:23.646816    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.649458    :Update to Version: 0.14
+2018-04-12T19:09:23.650806    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.653421    :Update to Version: 0.14
+2018-04-12T19:09:23.654786    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.657429    :Update to Version: 0.14
+2018-04-12T19:09:23.658776    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.661405    :Update to Version: 0.14
+2018-04-12T19:09:23.662753    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.665394    :Update to Version: 0.14
+2018-04-12T19:09:23.666740    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.669371    :Update to Version: 0.14
+2018-04-12T19:09:23.670718    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.673345    :Update to Version: 0.14
+2018-04-12T19:09:23.674691    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.677322    :Update to Version: 0.14
+2018-04-12T19:09:23.678687    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.681337    :Update to Version: 0.14
+2018-04-12T19:09:23.682682    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.685305    :Update to Version: 0.14
+2018-04-12T19:09:23.686649    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.689281    :Update to Version: 0.14
+2018-04-12T19:09:23.690624    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.693229    :Update to Version: 0.14
+2018-04-12T19:09:23.694588    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.697215    :Update to Version: 0.14
+2018-04-12T19:09:23.698556    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.701150    :Update to Version: 0.14
+2018-04-12T19:09:23.702491    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.705110    :Update to Version: 0.14
+2018-04-12T19:09:23.706453    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.709056    :Update to Version: 0.14
+2018-04-12T19:09:23.710403    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.713013    :Update to Version: 0.14
+2018-04-12T19:09:23.714356    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.716981    :Update to Version: 0.14
+2018-04-12T19:09:23.718338    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.720973    :Update to Version: 0.14
+2018-04-12T19:09:23.722323    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.724946    :Update to Version: 0.14
+2018-04-12T19:09:23.726291    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.728889    :Update to Version: 0.14
+2018-04-12T19:09:23.730260    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.732855    :Update to Version: 0.14
+2018-04-12T19:09:23.734225    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.736825    :Update to Version: 0.14
+2018-04-12T19:09:23.738193    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.740795    :Update to Version: 0.14
+2018-04-12T19:09:23.742190    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.744812    :Update to Version: 0.14
+2018-04-12T19:09:23.746194    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.748794    :Update to Version: 0.14
+2018-04-12T19:09:23.750155    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.752757    :Update to Version: 0.14
+2018-04-12T19:09:23.754135    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.756734    :Update to Version: 0.14
+2018-04-12T19:09:23.758111    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.760712    :Update to Version: 0.14
+2018-04-12T19:09:23.762092    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.764704    :Update to Version: 0.14
+2018-04-12T19:09:23.766082    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.768696    :Update to Version: 0.14
+2018-04-12T19:09:23.770073    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.772680    :Update to Version: 0.14
+2018-04-12T19:09:23.774043    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.776641    :Update to Version: 0.14
+2018-04-12T19:09:23.778019    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.780615    :Update to Version: 0.14
+2018-04-12T19:09:23.781994    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.784590    :Update to Version: 0.14
+2018-04-12T19:09:23.785967    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.788563    :Update to Version: 0.14
+2018-04-12T19:09:23.789942    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.792546    :Update to Version: 0.14
+2018-04-12T19:09:23.793926    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.796522    :Update to Version: 0.14
+2018-04-12T19:09:23.797899    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.800495    :Update to Version: 0.14
+2018-04-12T19:09:23.801874    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.804469    :Update to Version: 0.14
+2018-04-12T19:09:23.805845    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.808440    :Update to Version: 0.14
+2018-04-12T19:09:23.809816    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.812411    :Update to Version: 0.14
+2018-04-12T19:09:23.813765    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.816362    :Update to Version: 0.14
+2018-04-12T19:09:23.817739    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.820337    :Update to Version: 0.14
+2018-04-12T19:09:23.821711    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.824308    :Update to Version: 0.14
+2018-04-12T19:09:23.825682    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.828277    :Update to Version: 0.14
+2018-04-12T19:09:23.829636    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.832233    :Update to Version: 0.14
+2018-04-12T19:09:23.833607    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.836203    :Update to Version: 0.14
+2018-04-12T19:09:23.837558    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.840153    :Update to Version: 0.14
+2018-04-12T19:09:23.841527    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.844122    :Update to Version: 0.14
+2018-04-12T19:09:23.845539    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.848157    :Update to Version: 0.14
+2018-04-12T19:09:23.849542    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.852136    :Update to Version: 0.14
+2018-04-12T19:09:23.853516    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.856115    :Update to Version: 0.14
+2018-04-12T19:09:23.857498    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.860092    :Update to Version: 0.14
+2018-04-12T19:09:23.861447    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.864044    :Update to Version: 0.14
+2018-04-12T19:09:23.865415    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.868020    :Update to Version: 0.14
+2018-04-12T19:09:23.869376    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.871972    :Update to Version: 0.14
+2018-04-12T19:09:23.873364    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.875975    :Update to Version: 0.14
+2018-04-12T19:09:23.877345    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.879950    :Update to Version: 0.14
+2018-04-12T19:09:23.881321    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.883917    :Update to Version: 0.14
+2018-04-12T19:09:23.885268    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.887869    :Update to Version: 0.14
+2018-04-12T19:09:23.889250    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.891845    :Update to Version: 0.14
+2018-04-12T19:09:23.893198    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.895794    :Update to Version: 0.14
+2018-04-12T19:09:23.897164    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.899760    :Update to Version: 0.14
+2018-04-12T19:09:23.901110    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.903705    :Update to Version: 0.14
+2018-04-12T19:09:23.905075    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.907672    :Update to Version: 0.14
+2018-04-12T19:09:23.909044    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.911773    :Update to Version: 0.14
+2018-04-12T19:09:23.913175    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.915792    :Update to Version: 0.14
+2018-04-12T19:09:23.917175    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.919786    :Update to Version: 0.14
+2018-04-12T19:09:23.921169    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.923771    :Update to Version: 0.14
+2018-04-12T19:09:23.925143    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.927759    :Update to Version: 0.14
+2018-04-12T19:09:23.929133    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.931743    :Update to Version: 0.14
+2018-04-12T19:09:23.933108    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.935734    :Update to Version: 0.14
+2018-04-12T19:09:23.937123    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.939720    :Update to Version: 0.14
+2018-04-12T19:09:23.941073    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.943673    :Update to Version: 0.14
+2018-04-12T19:09:23.945041    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.947671    :Update to Version: 0.14
+2018-04-12T19:09:23.949056    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.951665    :Update to Version: 0.14
+2018-04-12T19:09:23.953039    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.955641    :Update to Version: 0.14
+2018-04-12T19:09:23.957002    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.959610    :Update to Version: 0.14
+2018-04-12T19:09:23.960985    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.963592    :Update to Version: 0.14
+2018-04-12T19:09:23.964964    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.967571    :Update to Version: 0.14
+2018-04-12T19:09:23.968950    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.971576    :Update to Version: 0.14
+2018-04-12T19:09:23.972921    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.975534    :Update to Version: 0.14
+2018-04-12T19:09:23.976882    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.979512    :Update to Version: 0.14
+2018-04-12T19:09:23.980860    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.983485    :Update to Version: 0.14
+2018-04-12T19:09:23.984834    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.987464    :Update to Version: 0.14
+2018-04-12T19:09:23.988810    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.991480    :Update to Version: 0.14
+2018-04-12T19:09:23.992829    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.995461    :Update to Version: 0.14
+2018-04-12T19:09:23.996808    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:23.999425    :Update to Version: 0.14
+2018-04-12T19:09:24.000773    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.003404    :Update to Version: 0.14
+2018-04-12T19:09:24.004751    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.007387    :Update to Version: 0.14
+2018-04-12T19:09:24.008736    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.011366    :Update to Version: 0.14
+2018-04-12T19:09:24.012713    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.015345    :Update to Version: 0.14
+2018-04-12T19:09:24.016694    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.019316    :Update to Version: 0.14
+2018-04-12T19:09:24.020664    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.023274    :Update to Version: 0.14
+2018-04-12T19:09:24.024621    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.027251    :Update to Version: 0.14
+2018-04-12T19:09:24.028599    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.031211    :Update to Version: 0.14
+2018-04-12T19:09:24.032558    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.035188    :Update to Version: 0.14
+2018-04-12T19:09:24.036555    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.039186    :Update to Version: 0.14
+2018-04-12T19:09:24.040534    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.043164    :Update to Version: 0.14
+2018-04-12T19:09:24.044511    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.047127    :Update to Version: 0.14
+2018-04-12T19:09:24.048481    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.051152    :Update to Version: 0.14
+2018-04-12T19:09:24.052505    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.055121    :Update to Version: 0.14
+2018-04-12T19:09:24.056472    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.059115    :Update to Version: 0.14
+2018-04-12T19:09:24.060465    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.063085    :Update to Version: 0.14
+2018-04-12T19:09:24.064433    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.067064    :Update to Version: 0.14
+2018-04-12T19:09:24.068411    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.071052    :Update to Version: 0.14
+2018-04-12T19:09:24.072400    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.075028    :Update to Version: 0.14
+2018-04-12T19:09:24.076377    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.078985    :Update to Version: 0.14
+2018-04-12T19:09:24.080332    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.082972    :Update to Version: 0.14
+2018-04-12T19:09:24.084321    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.086938    :Update to Version: 0.14
+2018-04-12T19:09:24.088285    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.090912    :Update to Version: 0.14
+2018-04-12T19:09:24.092260    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.094870    :Update to Version: 0.14
+2018-04-12T19:09:24.096220    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.098852    :Update to Version: 0.14
+2018-04-12T19:09:24.100198    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.102830    :Update to Version: 0.14
+2018-04-12T19:09:24.104176    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.106804    :Update to Version: 0.14
+2018-04-12T19:09:24.108151    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.110788    :Update to Version: 0.14
+2018-04-12T19:09:24.112133    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.114758    :Update to Version: 0.14
+2018-04-12T19:09:24.116106    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.118733    :Update to Version: 0.14
+2018-04-12T19:09:24.120097    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.122735    :Update to Version: 0.14
+2018-04-12T19:09:24.124092    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.126729    :Update to Version: 0.14
+2018-04-12T19:09:24.128074    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.130691    :Update to Version: 0.14
+2018-04-12T19:09:24.132038    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.134646    :Update to Version: 0.14
+2018-04-12T19:09:24.135993    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.138619    :Update to Version: 0.14
+2018-04-12T19:09:24.139966    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.142590    :Update to Version: 0.14
+2018-04-12T19:09:24.143938    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.146565    :Update to Version: 0.14
+2018-04-12T19:09:24.147913    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.150546    :Update to Version: 0.14
+2018-04-12T19:09:24.151927    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.154582    :Update to Version: 0.14
+2018-04-12T19:09:24.155935    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.158713    :Update to Version: 0.14
+2018-04-12T19:09:24.160087    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.162743    :Update to Version: 0.14
+2018-04-12T19:09:24.164184    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.166839    :Update to Version: 0.14
+2018-04-12T19:09:24.168198    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.170836    :Update to Version: 0.14
+2018-04-12T19:09:24.172191    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.175024    :Update to Version: 0.14
+2018-04-12T19:09:24.176538    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.179213    :Update to Version: 0.14
+2018-04-12T19:09:24.180577    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.183220    :Update to Version: 0.14
+2018-04-12T19:09:24.184572    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.187449    :Update to Version: 0.14
+2018-04-12T19:09:24.188862    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.191640    :Update to Version: 0.14
+2018-04-12T19:09:24.193044    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.195653    :Update to Version: 0.14
+2018-04-12T19:09:24.197040    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.199647    :Update to Version: 0.14
+2018-04-12T19:09:24.201027    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.203634    :Update to Version: 0.14
+2018-04-12T19:09:24.205018    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.207624    :Update to Version: 0.14
+2018-04-12T19:09:24.209001    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.211614    :Update to Version: 0.14
+2018-04-12T19:09:24.213005    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.215604    :Update to Version: 0.14
+2018-04-12T19:09:24.216978    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.219591    :Update to Version: 0.14
+2018-04-12T19:09:24.220955    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.223569    :Update to Version: 0.14
+2018-04-12T19:09:24.224987    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.227591    :Update to Version: 0.14
+2018-04-12T19:09:24.228982    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.231582    :Update to Version: 0.14
+2018-04-12T19:09:24.232944    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.235565    :Update to Version: 0.14
+2018-04-12T19:09:24.236913    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.239518    :Update to Version: 0.14
+2018-04-12T19:09:24.240881    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.243502    :Update to Version: 0.14
+2018-04-12T19:09:24.244848    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.247462    :Update to Version: 0.14
+2018-04-12T19:09:24.248811    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.251451    :Update to Version: 0.14
+2018-04-12T19:09:24.252800    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.255482    :Update to Version: 0.14
+2018-04-12T19:09:24.256899    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.259530    :Update to Version: 0.14
+2018-04-12T19:09:24.260880    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.263493    :Update to Version: 0.14
+2018-04-12T19:09:24.264843    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.267471    :Update to Version: 0.14
+2018-04-12T19:09:24.268837    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.271467    :Update to Version: 0.14
+2018-04-12T19:09:24.272835    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.275466    :Update to Version: 0.14
+2018-04-12T19:09:24.276814    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.279425    :Update to Version: 0.14
+2018-04-12T19:09:24.280786    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.283423    :Update to Version: 0.14
+2018-04-12T19:09:24.284770    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.287384    :Update to Version: 0.14
+2018-04-12T19:09:24.288730    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.291488    :Update to Version: 0.14
+2018-04-12T19:09:24.292882    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.295518    :Update to Version: 0.14
+2018-04-12T19:09:24.296882    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.299510    :Update to Version: 0.14
+2018-04-12T19:09:24.300881    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.303506    :Update to Version: 0.14
+2018-04-12T19:09:24.304857    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.307474    :Update to Version: 0.14
+2018-04-12T19:09:24.308821    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.311463    :Update to Version: 0.14
+2018-04-12T19:09:24.312812    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.315444    :Update to Version: 0.14
+2018-04-12T19:09:24.316794    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.319405    :Update to Version: 0.14
+2018-04-12T19:09:24.320759    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.323455    :Update to Version: 0.14
+2018-04-12T19:09:24.324808    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.327440    :Update to Version: 0.14
+2018-04-12T19:09:24.328788    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.331427    :Update to Version: 0.14
+2018-04-12T19:09:24.332778    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.335410    :Update to Version: 0.14
+2018-04-12T19:09:24.336760    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.339387    :Update to Version: 0.14
+2018-04-12T19:09:24.340756    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.343396    :Update to Version: 0.14
+2018-04-12T19:09:24.344762    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.347400    :Update to Version: 0.14
+2018-04-12T19:09:24.348749    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.351370    :Update to Version: 0.14
+2018-04-12T19:09:24.352718    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.355411    :Update to Version: 0.14
+2018-04-12T19:09:24.356783    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.359419    :Update to Version: 0.14
+2018-04-12T19:09:24.360772    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.363403    :Update to Version: 0.14
+2018-04-12T19:09:24.364751    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.367391    :Update to Version: 0.14
+2018-04-12T19:09:24.368740    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.371363    :Update to Version: 0.14
+2018-04-12T19:09:24.372710    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.375313    :Update to Version: 0.14
+2018-04-12T19:09:24.376661    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.379295    :Update to Version: 0.14
+2018-04-12T19:09:24.380640    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.383271    :Update to Version: 0.14
+2018-04-12T19:09:24.384618    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.387247    :Update to Version: 0.14
+2018-04-12T19:09:24.388721    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.391335    :Update to Version: 0.14
+2018-04-12T19:09:24.392702    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.395334    :Update to Version: 0.14
+2018-04-12T19:09:24.396681    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.399289    :Update to Version: 0.14
+2018-04-12T19:09:24.400637    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.403261    :Update to Version: 0.14
+2018-04-12T19:09:24.404609    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.407237    :Update to Version: 0.14
+2018-04-12T19:09:24.408585    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.411208    :Update to Version: 0.14
+2018-04-12T19:09:24.412557    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.415182    :Update to Version: 0.14
+2018-04-12T19:09:24.416530    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.419160    :Update to Version: 0.14
+2018-04-12T19:09:24.420507    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.423261    :Update to Version: 0.14
+2018-04-12T19:09:24.424608    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.427240    :Update to Version: 0.14
+2018-04-12T19:09:24.428581    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.431192    :Update to Version: 0.14
+2018-04-12T19:09:24.432538    :Main Loop ExceptionTypeError('expected str, bytes or os.PathLike object, not list',)
+2018-04-12T19:09:24.435167    :Update to Version: 0.14
+2018-04-12T19:09:36.416781    :Already up-to-date.
