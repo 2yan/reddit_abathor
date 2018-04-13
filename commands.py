@@ -32,6 +32,7 @@ def correlate(ticker_list):
     data = data.dropna().pct_change().dropna()
     data= data.corr('spearman')
     data.index.name = 'Spearman correlation'
+    data = data.apply(lambda x: round(x, 4))
     text = formatter.convert_dataframe_to_reddit_table(data)
     text = text + '\n\n' + 'Spearman Rank correlation on percentage changes of 365 days of data.' 
     return text
